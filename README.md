@@ -1,0 +1,2 @@
+# RayTracing
+As a part of a university's course "Fundamentals of Computer Graphics, Vision and Image Processing" we implemented The Ray Tracing algorithm. A ray tracer shoots rays from the observer's eye (the camera) through a screen and into a scene which contains one or more surfaces. it calculates the ray's intersection with the surfaces, finds the nearest intersection and calculates the color of the surface according to its material and lighting conditions.
